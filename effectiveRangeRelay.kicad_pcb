@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "Effective Range RelayDevice")
-		(date "2024-06-17")
+		(date "2024-07-24")
 		(rev "v2.1.0")
 		(company "Effective Range Kft.")
 		(comment 1 "visit https://creativecommons.org/licenses/by/4.0/")
@@ -7386,7 +7386,7 @@
 		(layer "Edge.Cuts")
 		(uuid "b9068713-7b37-457f-a516-fe6da7b5fadf")
 	)
-	(gr_text "RelayDevice v2.2.0"
+	(gr_text "RelayDevice v2.3.0"
 		(at 129.921 105.029 90)
 		(layer "F.Cu")
 		(uuid "54403fb7-0ad2-434a-b893-0e072dc99064")
