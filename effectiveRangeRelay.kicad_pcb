@@ -7386,7 +7386,7 @@
 		(layer "Edge.Cuts")
 		(uuid "b9068713-7b37-457f-a516-fe6da7b5fadf")
 	)
-	(gr_text "RelayDevice v2.3.0"
+	(gr_text "RelayDevice v2.4.0"
 		(at 129.921 105.029 90)
 		(layer "F.Cu")
 		(uuid "54403fb7-0ad2-434a-b893-0e072dc99064")
