@@ -8618,7 +8618,7 @@
 		(layer "Edge.Cuts")
 		(uuid "88b0261a-6944-411c-a971-570fe27b0b2f")
 	)
-	(gr_text "RelayDeviceDual v0.1.1"
+	(gr_text "RelayDeviceDual v0.1.2"
 		(at 112.649 154.178 0)
 		(layer "F.Cu")
 		(uuid "54403fb7-0ad2-434a-b893-0e072dc99064")
