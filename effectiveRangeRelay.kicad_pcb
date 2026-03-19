@@ -554,17 +554,6 @@
 			(uuid "7a28863c-fb6a-402b-9e4e-0748fdaa964d")
 		)
 		(embedded_fonts no)
-		(model ":KICAD8_3DMODEL_DIR:Relay_THT.3dshapes/Relay_SPDT_Finder_36.11.step"
-			(offset
-				(xyz -6 -2 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 		(model "${KICAD9_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_36.11.step"
 			(offset
 				(xyz -6 -2 0)
@@ -7872,17 +7861,6 @@
 			(uuid "390063bd-5f8c-4cc9-9097-f05a3939790b")
 		)
 		(embedded_fonts no)
-		(model ":KICAD8_3DMODEL_DIR:Relay_THT.3dshapes/Relay_SPDT_Finder_36.11.step"
-			(offset
-				(xyz -6 -2 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 		(model "${KICAD9_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_36.11.step"
 			(offset
 				(xyz -6 -2 0)
