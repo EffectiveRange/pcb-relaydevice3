@@ -8,13 +8,13 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "Effective Range RelayDevice")
+		(title "Effective Range RelayDeviceDual")
 		(date "2026-03-19")
-		(rev "v2.1.0")
+		(rev "v0.1.0")
 		(company "Effective Range Kft.")
 		(comment 1 "visit https://creativecommons.org/licenses/by/4.0/")
 		(comment 2 "is licensed under CC BY 4.0. To view a copy of this license,")
-		(comment 3 "License: MrHAT © 2024 by Ferenc Nandor Janky & Attila Gombos")
+		(comment 3 "License: MrHAT © 2024 by Ferenc Nandor Janky & Attila Gombos & Tamas Janky")
 		(comment 4 "Design Engineer: Ferenc Janky")
 	)
 	(layers
