@@ -1,6 +1,6 @@
 {
     "name": "Kicad Dev Container",
-    "image": "effectiverange/devc-pcb:latest",
+    "image": "effectiverange/devc-pcb:v1.0.5",
     "forwardPorts": [],
     "customizations": {
         "vscode": {
