@@ -1,8 +1,5 @@
 {
-    "name": "RelayDevice",
-    "version": "2.4.1",
-    "layers": [
-        "In1.Cu",
-        "In2.Cu"
-    ]
+    "name": "RelayDeviceDual",
+    "version": "0.0.1",
+    "layers": []
 }

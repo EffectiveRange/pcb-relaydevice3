@@ -1,7 +1,7 @@
 (footprint "RELAY5_J107F-1C_CRS"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(tags "J107F1CS125VDC.36 ")
 	(property "Reference" "REF**"
@@ -28,18 +28,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "07300bb9-9670-42d1-aa7d-bd5c31db8a97")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -49,6 +37,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -61,6 +50,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -144,7 +134,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "b5b703da-0b10-41f3-ad49-3f93c7b1eb09")
 	)
@@ -330,6 +320,7 @@
 		(remove_unused_layers no)
 		(uuid "96f1094a-2552-4739-9d91-a65cad4e5fca")
 	)
+	(embedded_fonts no)
 	(model ":KICAD8_3DMODEL_DIR:Relay_THT.3dshapes/Relay_SPDT_Finder_36.11.step"
 		(offset
 			(xyz -6 -2 0)
@@ -339,6 +330,17 @@
 		)
 		(rotate
 			(xyz 0 0 0)
+		)
+	)
+	(model "${KICAD9_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_Finder_36.11.step"
+		(offset
+			(xyz -6 -2 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
 		)
 	)
 )
