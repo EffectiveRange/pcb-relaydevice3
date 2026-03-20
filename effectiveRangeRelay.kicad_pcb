@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "Effective Range RelayDeviceDual")
-		(date "2026-03-19")
+		(date "2026-03-20")
 		(rev "v0.1.0")
 		(company "Effective Range Kft.")
 		(comment 1 "visit https://creativecommons.org/licenses/by/4.0/")
@@ -8597,7 +8597,7 @@
 		(layer "Edge.Cuts")
 		(uuid "88b0261a-6944-411c-a971-570fe27b0b2f")
 	)
-	(gr_text "RelayDeviceDual v0.1.4"
+	(gr_text "RelayDeviceDual v0.2.0"
 		(at 112.649 154.178 0)
 		(layer "F.Cu")
 		(uuid "54403fb7-0ad2-434a-b893-0e072dc99064")

@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Effective Range RelayDeviceDual")
-		(date "2026-03-19")
+		(date "2026-03-20")
 		(rev "v0.1.0")
 		(company "Effective Range Kft")
 		(comment 1 "visit https://creativecommons.org/licenses/by/4.0/")
