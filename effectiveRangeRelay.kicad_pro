@@ -593,7 +593,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "effectiveRangeRelay.step",
       "svg": "",
       "vrml": ""
     },
