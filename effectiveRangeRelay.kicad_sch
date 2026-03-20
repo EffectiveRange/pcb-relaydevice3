@@ -4823,7 +4823,7 @@
 		(uuid "54cae707-8e21-4be8-8d3d-cdc0934ddcdf")
 	)
 	(label "NO1"
-		(at 240.03 104.14 180)
+		(at 240.03 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4843,7 +4843,7 @@
 		(uuid "6ade8de2-5147-4c06-8e69-3847b071c889")
 	)
 	(label "NC1"
-		(at 240.03 109.22 180)
+		(at 240.03 104.14 180)
 		(effects
 			(font
 				(size 1.27 1.27)
